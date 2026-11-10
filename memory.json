@@ -1,0 +1,34 @@
+[
+  {
+    "user": "hello",
+    "bot": "Hello! I am AISS. How can I help you today?"
+  },
+  {
+    "user": "what are  you doing",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  },
+  {
+    "user": "can you tell me about for your self",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  },
+  {
+    "user": "tell me about for  python",
+    "bot": "Python Example:\n\ndef greet():\n    print('Hello from AISS')"
+  },
+  {
+    "user": "thoda long me samjao",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  },
+  {
+    "user": "tum kya kya kar sakte ho",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  },
+  {
+    "user": "by",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  },
+  {
+    "user": "33*34",
+    "bot": "I am AISS offline assistant. Try asking about time, date, javascript, python, html, or css."
+  }
+]
